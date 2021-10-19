@@ -1,0 +1,11 @@
+Z:\DEV\CFBC\Aula61e62\Componentes\bin\Debug\Componentes.exe.config
+Z:\DEV\CFBC\Aula61e62\Componentes\bin\Debug\Componentes.exe
+Z:\DEV\CFBC\Aula61e62\Componentes\bin\Debug\Componentes.pdb
+Z:\DEV\CFBC\Aula61e62\Componentes\obj\Debug\Componentes.csprojAssemblyReference.cache
+Z:\DEV\CFBC\Aula61e62\Componentes\obj\Debug\Componentes.F_Principal.resources
+Z:\DEV\CFBC\Aula61e62\Componentes\obj\Debug\Componentes.Properties.Resources.resources
+Z:\DEV\CFBC\Aula61e62\Componentes\obj\Debug\Componentes.csproj.GenerateResource.cache
+Z:\DEV\CFBC\Aula61e62\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+Z:\DEV\CFBC\Aula61e62\Componentes\obj\Debug\Componentes.exe
+Z:\DEV\CFBC\Aula61e62\Componentes\obj\Debug\Componentes.pdb
+Z:\DEV\CFBC\Aula61e62\Componentes\obj\Debug\Componentes.F_veiculos.resources

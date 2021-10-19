@@ -1,0 +1,10 @@
+Z:\DEV\CFBC\Aula60\Aula60\obj\Debug\Aula60.csprojAssemblyReference.cache
+Z:\DEV\CFBC\Aula60\Aula60\obj\Debug\Aula60.F_Principal.resources
+Z:\DEV\CFBC\Aula60\Aula60\obj\Debug\Aula60.Properties.Resources.resources
+Z:\DEV\CFBC\Aula60\Aula60\obj\Debug\Aula60.csproj.GenerateResource.cache
+Z:\DEV\CFBC\Aula60\Aula60\obj\Debug\Aula60.csproj.CoreCompileInputs.cache
+Z:\DEV\CFBC\Aula60\Aula60\bin\Debug\Aula60.exe.config
+Z:\DEV\CFBC\Aula60\Aula60\bin\Debug\Aula60.exe
+Z:\DEV\CFBC\Aula60\Aula60\bin\Debug\Aula60.pdb
+Z:\DEV\CFBC\Aula60\Aula60\obj\Debug\Aula60.exe
+Z:\DEV\CFBC\Aula60\Aula60\obj\Debug\Aula60.pdb

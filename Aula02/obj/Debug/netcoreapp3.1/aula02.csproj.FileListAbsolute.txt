@@ -1,0 +1,13 @@
+Z:\DEV\CFBC\Aula02\bin\Debug\netcoreapp3.1\aula02.exe
+Z:\DEV\CFBC\Aula02\bin\Debug\netcoreapp3.1\aula02.deps.json
+Z:\DEV\CFBC\Aula02\bin\Debug\netcoreapp3.1\aula02.runtimeconfig.json
+Z:\DEV\CFBC\Aula02\bin\Debug\netcoreapp3.1\aula02.runtimeconfig.dev.json
+Z:\DEV\CFBC\Aula02\bin\Debug\netcoreapp3.1\aula02.dll
+Z:\DEV\CFBC\Aula02\bin\Debug\netcoreapp3.1\aula02.pdb
+Z:\DEV\CFBC\Aula02\obj\Debug\netcoreapp3.1\aula02.csprojAssemblyReference.cache
+Z:\DEV\CFBC\Aula02\obj\Debug\netcoreapp3.1\aula02.AssemblyInfoInputs.cache
+Z:\DEV\CFBC\Aula02\obj\Debug\netcoreapp3.1\aula02.AssemblyInfo.cs
+Z:\DEV\CFBC\Aula02\obj\Debug\netcoreapp3.1\aula02.csproj.CoreCompileInputs.cache
+Z:\DEV\CFBC\Aula02\obj\Debug\netcoreapp3.1\aula02.dll
+Z:\DEV\CFBC\Aula02\obj\Debug\netcoreapp3.1\aula02.pdb
+Z:\DEV\CFBC\Aula02\obj\Debug\netcoreapp3.1\aula02.genruntimeconfig.cache
